@@ -3,7 +3,7 @@
 Add-on files for Agera.js, served via jsDelivr.
 
 - **Status:** maintenance only.
-- **Owner:** Jens Harvard
+- **Owner:** Jens Harvard ([@Vrejf](https://github.com/Vrejf))
 
 ## Contents
 
